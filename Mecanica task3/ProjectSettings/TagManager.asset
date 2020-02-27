@@ -6,6 +6,7 @@ TagManager:
   tags:
   - golp
   - wall
+  - ground
   layers:
   - Default
   - TransparentFX
