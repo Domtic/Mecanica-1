@@ -74,10 +74,10 @@ public class TiroParabolico : MonoBehaviour
     public void DrawCurve()
     {
         Vector3 p1 = new Vector3();
-        float distance = Vector3.Distance(objective.position, transform.position);
+        
         // (Projectile.transform.position.y)*2.5f
 
-        p1 = new Vector3(distance / 2, (previousPos.y), Projectile.transform.position.z);
+        p1 = new Vector3(previousPos.x, (previousPos.y) *2.2f, previousPos.z);
         /*if(firingAngle > 60)
         {
             p1 = new Vector3(distance / 2, (firingAngle / gravity) * 1.5f, Projectile.transform.position.z);
