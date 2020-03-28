@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/TiroParab\xF3lico/TiroParabolico.unity"
+- path: mecanica2020-master/Assets/Scenes/Practica1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

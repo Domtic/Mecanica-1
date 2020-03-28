@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: "Assets/TiroParab\xF3lico/TiroParabolico.unity"
+    path: "Assets/Parcial 1/TiroParab\xF3lico/TiroParabolico.unity"
     guid: 78ef7c699d988504283c9efa0a0382da
   m_configObjects: {}
