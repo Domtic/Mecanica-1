@@ -1,5 +1,5 @@
 sceneSetups:
-- path: mecanica2020-master/Assets/Scenes/Practica1.unity
+- path: Assets/Parcial 2/Scenes/Practica3Golf.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
