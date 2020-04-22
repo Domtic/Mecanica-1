@@ -68,6 +68,7 @@
     <Compile Include="Assets\Parcial 2\Scripts\Inercia.cs" />
     <Compile Include="Assets\Parcial 2\Scripts\Practica3\BallGold.cs" />
     <Compile Include="Assets\Parcial 2\Scripts\Practica3\DragGolf.cs" />
+    <Compile Include="Assets\Parcial 2\Scripts\Practica4\IMPULSOR.cs" />
     <None Include="Assets\Parcial 1\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\Parcial 1\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\Parcial 1\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />

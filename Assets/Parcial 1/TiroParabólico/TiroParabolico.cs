@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 public class TiroParabolico : MonoBehaviour
 {
-    public float power =2f;
+    public float power =1.2f;
     Camera cam;
     Vector3 force;
     Vector3 startPoint;

@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Parcial 2/Scenes/Practica3Golf.unity
+- path: Assets/Parcial 2/Scenes/Practica4_PlanoInclinado.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
