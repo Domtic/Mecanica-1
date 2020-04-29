@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Impulsor
+  - plank1
   layers:
   - Default
   - TransparentFX

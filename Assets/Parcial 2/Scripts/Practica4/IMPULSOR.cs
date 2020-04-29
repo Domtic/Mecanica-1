@@ -5,7 +5,7 @@ using UnityEngine;
 public class IMPULSOR : MonoBehaviour
 {
 
-    Rigidbody myRigidBody;
+  /*  Rigidbody myRigidBody;
     private void Start()
     {
         myRigidBody = GetComponent<Rigidbody>();
@@ -18,4 +18,5 @@ public class IMPULSOR : MonoBehaviour
             myRigidBody.AddForce(Vector3.right*50f, ForceMode.Impulse);
         }
     }
+    */
 }

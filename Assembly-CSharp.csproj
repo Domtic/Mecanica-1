@@ -63,12 +63,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Parcial 1\MovimientoCirular\MovimientoCircular.cs" />
-    <Compile Include="Assets\Parcial 1\TiroParabólico\TiroParabolico.cs" />
-    <Compile Include="Assets\Parcial 1\TiroParabólico\movimiento.cs" />
+    <Compile Include="Assets\Parcial 2\Scripts\Bounce.cs" />
     <Compile Include="Assets\Parcial 2\Scripts\Inercia.cs" />
     <Compile Include="Assets\Parcial 2\Scripts\Practica3\BallGold.cs" />
     <Compile Include="Assets\Parcial 2\Scripts\Practica3\DragGolf.cs" />
     <Compile Include="Assets\Parcial 2\Scripts\Practica4\IMPULSOR.cs" />
+    <Compile Include="Assets\Parcial 2\Scripts\Practica4\NewBehaviourScript.cs" />
+    <Compile Include="Assets\Parcial 2\Scripts\Practica4\WayPoints.cs" />
+    <Compile Include="Assets\Parcial 2\Scripts\TiroParabólico\TiroParabolico.cs" />
+    <Compile Include="Assets\Parcial 2\Scripts\TiroParabólico\movimiento.cs" />
     <None Include="Assets\Parcial 1\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\Parcial 1\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\Parcial 1\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
